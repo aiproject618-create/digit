@@ -1,7 +1,5 @@
 
 streamlit
-tensorflow
+scikit-learn
 numpy
 Pillow
-matplotlib
-streamlit-drawable-canvas==0.9.3
