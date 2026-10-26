@@ -1,6 +1,6 @@
 
-streamlit>=1.32,<2.0
-tensorflow>=2.15,<2.20
+streamlit
+tensorflow
 numpy
 Pillow
 matplotlib
